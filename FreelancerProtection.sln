@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerProtectionLib", "FreelancerProtectionLib\FreelancerProtectionLib.csproj", "{59036D90-E746-40B8-8090-636EB02495E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerProtectionLibTests", "FreelancerProtectionLibTests\FreelancerProtectionLibTests.csproj", "{F7F8A97D-8860-4EFF-9349-2D51BE53CAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59036D90-E746-40B8-8090-636EB02495E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59036D90-E746-40B8-8090-636EB02495E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59036D90-E746-40B8-8090-636EB02495E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59036D90-E746-40B8-8090-636EB02495E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F8A97D-8860-4EFF-9349-2D51BE53CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F8A97D-8860-4EFF-9349-2D51BE53CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F8A97D-8860-4EFF-9349-2D51BE53CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F8A97D-8860-4EFF-9349-2D51BE53CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1B0596-F8D9-4141-96D1-A2726CA9AA36}
+	EndGlobalSection
+EndGlobal

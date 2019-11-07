@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/FreelancerProtection/v16
+/FreelancerProtectionLib/bin/Debug
+/FreelancerProtectionLib/obj/Debug
+/FreelancerProtectionLibTests/bin/Debug
+/FreelancerProtectionLibTests/obj/Debug
+/packages
